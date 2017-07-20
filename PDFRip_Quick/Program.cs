@@ -15,7 +15,7 @@ namespace PDFRip_Quick
     {
 
         private static string pdfPath;
-        private static string saveFolder = "pdftest";
+        private static string saveFolder;
         private static List<string> PDFText = new List<string>();
         public static readonly string ExecutingDirectory = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
         private static List<Dictionary<string, System.Drawing.Image>> PDFImages = new List<Dictionary<string, System.Drawing.Image>>();
