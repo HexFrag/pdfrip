@@ -1,0 +1,30 @@
+Start with a New Sales/Invoice, select an existing customer, or start with a new one, and then 
+select Device sale. 
+Scan or type the Serial/IMEI into the invoice. 
+Then Select New Activation. 
+ 
+Then input a temporary fake phone number, like all 5's, scan the phones SIM card, and enter the 
+customers pin, if you wish.  Then select the customers plan, and any other features/items needed.
+After 
+Clicking OK, back on the invoice, select the MetroPCS Edge Button from the invoice, to open 
+the RTPOS MetroPCS Edge Browser.
+ 
+For the regular and IE options you will need to select your most current certificate installed 
+on your machine.  The prompt may appear as such: 
+ 
+It will then auto add your credentials stored inside of the POS settings, login, and 
+load the main page. 
+For chrome, Then Click on Launch and Login to launch MetroPCS Edge and login. 
+ 
+If it does not Login for you, click on the login only button.  You should then see the 
+screen below: 
+ 
+Then click on Create account, and if you already inputted the customers 
+information inside of RTPOS, or already have all their account information saved 
+from last time they were in your store, then click on Submit Cust Info button to add all 
+the info to the screen from RTPOS. 
+Scroll through to verify completeness. 
+ 
+Once you are finished with MetroPCS Edge, simply close it. Then open the Metro API from 
+the Invoice Screen.
+ 

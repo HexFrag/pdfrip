@@ -19,6 +19,10 @@ namespace PDFRip_Quick
         private static List<string> PDFText = new List<string>();
         public static readonly string ExecutingDirectory = System.IO.Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
         private static List<Dictionary<string, System.Drawing.Image>> PDFImages = new List<Dictionary<string, System.Drawing.Image>>();
+        private static int imageCount = 0;
+        private static string pdfName;
+
+
 
         static void Main(string[] args)
         {
@@ -122,14 +126,7 @@ namespace PDFRip_Quick
             Console.ReadKey();
         }
 
-        private static int imageCount = 0;
-        private static string pdfName;
-
-        private static int GetRand()
-        {
-            return new Random((int)(Environment.TickCount + DateTime.Now.Millisecond)).Next(Int32.MaxValue);
-        }
-
+        
         
     }
 }

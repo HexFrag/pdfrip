@@ -3,3 +3,4 @@ C:\Users\Admin\Documents\EZLOGIC\GIT\PDFRip_Quick\PDFRip_Quick\bin\Release\PDFRi
 C:\Users\Admin\Documents\EZLOGIC\GIT\PDFRip_Quick\PDFRip_Quick\bin\Release\PDFRip_Quick.pdb
 C:\Users\Admin\Documents\EZLOGIC\GIT\PDFRip_Quick\PDFRip_Quick\obj\Release\PDFRip_Quick.exe
 C:\Users\Admin\Documents\EZLOGIC\GIT\PDFRip_Quick\PDFRip_Quick\obj\Release\PDFRip_Quick.pdb
+C:\Users\Admin\Documents\EZLOGIC\GIT\PDFRip_Quick\PDFRip_Quick\obj\Release\PDFRip_Quick.csprojResolveAssemblyReference.cache
